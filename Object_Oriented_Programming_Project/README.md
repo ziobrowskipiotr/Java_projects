@@ -1,6 +1,6 @@
 # Fuel Prices in Krakow Application
 
-This JavaFX application displays information about fuel prices at gas stations in Krakow, Poland. It fetches the latest price data through web scraping from selected websites. The application provides a user interface with tables and charts to present current fuel prices efficiently.
+This JavaFX application displays information about fuel prices at gas stations in Cracow, Poland. It fetches the latest price data through web scraping from selected websites. The application provides a user interface with tables and charts to present current fuel prices efficiently.
 
 ## Features
 
