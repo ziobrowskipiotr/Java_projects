@@ -4,7 +4,7 @@ This JavaFX application displays information about fuel prices at gas stations i
 
 ## Features
 
-- **Real-time fuel prices:** Display prices for different types of fuel such as Pb95, Pb98, Diesel, and LPG from various gas stations in Krakow.
+- **Real-time fuel prices:** Display prices for different types of fuel such as Pb95, Pb98, Diesel, and LPG from various gas stations in Cracow.
 - **Web scraping:** Utilizes Jsoup library to scrape real-time data from web pages.
 - **Data visualization:** Shows fuel prices in a tabular format and visualizes average prices on bar charts for easy comparison.
 - **Multi-view interface:** Allows users to switch between different fuel types to view specific price information.
