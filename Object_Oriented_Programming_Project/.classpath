@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JavaFx">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/piotr/eclipse-workspace/Object_Oriented_Programming_Project/src/resources/apache-log4j-2.22.1-bin/log4j-api-2.22.1.jar"/>
+	<classpathentry kind="lib" path="/home/piotr/eclipse-workspace/Object_Oriented_Programming_Project/src/resources/apache-log4j-2.22.1-bin/log4j-core-2.22.1.jar"/>
+	<classpathentry kind="lib" path="/home/piotr/eclipse-workspace/Object_Oriented_Programming_Project/src/resources/jsoup-1.17.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
