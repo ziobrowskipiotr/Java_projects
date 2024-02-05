@@ -6,4 +6,4 @@
 
 <h3 align="center">This is the place where you can review my journey with the Java language.</h3>
 
-<p align="center"> <a target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="python" width="40" height="40"/> </a> </p>
+<p align="center"> <a target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="python" width="30" height="40"/> </a> </p>
